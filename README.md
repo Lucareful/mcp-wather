@@ -29,6 +29,6 @@ go build -o forecast .
 ```
 
 ## 运行截图
-![image](./png/img.png)
+![image](./png/image-20250430164404816.png)
 
 
